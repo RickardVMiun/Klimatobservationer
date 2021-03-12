@@ -11,5 +11,7 @@ namespace Klimatobservationer
         public string ID { get; set; }
         public string Date { get; set; }
        
+
+        // Ser du detta???? HEJHEJ
     }
 }
