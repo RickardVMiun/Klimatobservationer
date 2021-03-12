@@ -14,5 +14,6 @@ namespace Klimatobservationer
         public Category BaseCategory { get; set; }
        
 
+        //xaxaxaxaxaxa
     }
 }
